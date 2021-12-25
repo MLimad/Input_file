@@ -2,4 +2,4 @@
  Styled Input File\
 The Project Used : HTML CSS and JS
 ----
-![alt text](result.png "Title")
+![alt text](result.png)
